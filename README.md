@@ -8,7 +8,7 @@ One sphere bouncing (actually moving up and down) using shader-based OpenGL. Som
 * Change between plastic/metallic material
 * Switch between 2 textures
 
-The textures can be downloaded from [basketball] and  . Also, you can use any [PPM] texture. To run the code, [CMake] is necesary or just manually adding the libraries/environment to work with GLUT (or freeglut).
+The textures can be downloaded from [basketball] and [earth]. Also, you can use any [PPM] texture. To run the code, [CMake] is necesary or just manually adding the libraries/environment to work with GLUT (or freeglut). Also, you need [glew]. The sphere is created in a parametric way.
 
 The required [headers] can be found on the page of authors. Also, Ed Angel is a very famous professor in Computer Graphics (University of New Mexico).
 
@@ -18,3 +18,4 @@ The required [headers] can be found on the page of authors. Also, Ed Angel is a 
 [PPM]: <http://netpbm.sourceforge.net/doc/ppm.html>
 [basketball]: <http://ccg.ciens.ucv.ve/~esmitt/files/basketball.ppm>
 [earth]: <http://ccg.ciens.ucv.ve/~esmitt/files/earth.ppm>
+[glew]: <http://glew.sourceforge.net/>
